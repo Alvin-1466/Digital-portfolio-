@@ -173,7 +173,7 @@
 
     <!-- Resume Section -->
     <div id="resume" class="resume">
-        <a href=Download CV</a>
+        <a href="Download CV"<Download CV></a>
     </div>
 
     <!-- GitHub Link -->
